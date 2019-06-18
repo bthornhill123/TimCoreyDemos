@@ -1,0 +1,6 @@
+c:\users\tim\documents\visual studio 2017\Projects\LSPDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+c:\users\tim\documents\visual studio 2017\Projects\LSPDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+c:\users\tim\documents\visual studio 2017\Projects\LSPDemo\DemoLibrary\obj\Debug\DemoLibrary.csprojResolveAssemblyReference.cache
+c:\users\tim\documents\visual studio 2017\Projects\LSPDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+c:\users\tim\documents\visual studio 2017\Projects\LSPDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+c:\users\tim\documents\visual studio 2017\Projects\LSPDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb
