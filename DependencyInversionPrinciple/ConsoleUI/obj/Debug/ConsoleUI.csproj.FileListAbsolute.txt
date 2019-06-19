@@ -1,0 +1,20 @@
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\bthornhill\source\repos\Demos\DependencyInversionPrinciple\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\bthornhill\source\repos\Demos\DependencyInversionPrinciple\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\bthornhill\source\repos\Demos\DependencyInversionPrinciple\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\bthornhill\source\repos\Demos\DependencyInversionPrinciple\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\bthornhill\source\repos\Demos\DependencyInversionPrinciple\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Users\bthornhill\source\repos\Demos\DependencyInversionPrinciple\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\bthornhill\source\repos\Demos\DependencyInversionPrinciple\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\bthornhill\source\repos\Demos\DependencyInversionPrinciple\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\bthornhill\source\repos\Demos\DependencyInversionPrinciple\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\bthornhill\source\repos\Demos\DependencyInversionPrinciple\ConsoleUI\obj\Debug\ConsoleUI.pdb

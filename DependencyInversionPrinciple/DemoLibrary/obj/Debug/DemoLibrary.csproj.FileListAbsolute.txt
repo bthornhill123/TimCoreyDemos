@@ -1,0 +1,12 @@
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\DemoLibrary\obj\Debug\DemoLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb
+C:\Users\bthornhill\source\repos\Demos\DependencyInversionPrinciple\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\bthornhill\source\repos\Demos\DependencyInversionPrinciple\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\bthornhill\source\repos\Demos\DependencyInversionPrinciple\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\bthornhill\source\repos\Demos\DependencyInversionPrinciple\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bthornhill\source\repos\Demos\DependencyInversionPrinciple\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\bthornhill\source\repos\Demos\DependencyInversionPrinciple\DemoLibrary\obj\Debug\DemoLibrary.pdb
