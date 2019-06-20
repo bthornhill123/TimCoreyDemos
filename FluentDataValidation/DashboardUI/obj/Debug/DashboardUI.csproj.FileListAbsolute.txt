@@ -1,0 +1,13 @@
+C:\Users\Tim\Source\Repos\FluentValidationDemo\DashboardUI\bin\Debug\DashboardUI.exe.config
+C:\Users\Tim\Source\Repos\FluentValidationDemo\DashboardUI\bin\Debug\DashboardUI.exe
+C:\Users\Tim\Source\Repos\FluentValidationDemo\DashboardUI\bin\Debug\DashboardUI.pdb
+C:\Users\Tim\Source\Repos\FluentValidationDemo\DashboardUI\obj\Debug\DashboardUI.csprojAssemblyReference.cache
+C:\Users\Tim\Source\Repos\FluentValidationDemo\DashboardUI\obj\Debug\DashboardUI.Dashboard.resources
+C:\Users\Tim\Source\Repos\FluentValidationDemo\DashboardUI\obj\Debug\DashboardUI.Properties.Resources.resources
+C:\Users\Tim\Source\Repos\FluentValidationDemo\DashboardUI\obj\Debug\DashboardUI.csproj.GenerateResource.cache
+C:\Users\Tim\Source\Repos\FluentValidationDemo\DashboardUI\obj\Debug\DashboardUI.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Source\Repos\FluentValidationDemo\DashboardUI\obj\Debug\DashboardUI.exe
+C:\Users\Tim\Source\Repos\FluentValidationDemo\DashboardUI\obj\Debug\DashboardUI.pdb
+C:\Users\Tim\Source\Repos\FluentValidationDemo\DashboardUI\bin\Debug\ModelLibrary.dll
+C:\Users\Tim\Source\Repos\FluentValidationDemo\DashboardUI\bin\Debug\ModelLibrary.pdb
+C:\Users\Tim\Source\Repos\FluentValidationDemo\DashboardUI\obj\Debug\DashboardUI.csproj.CopyComplete
