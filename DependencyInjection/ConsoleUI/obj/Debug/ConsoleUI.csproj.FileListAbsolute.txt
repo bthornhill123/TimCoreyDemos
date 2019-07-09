@@ -1,0 +1,10 @@
+c:\users\tim\Source\Repos\DependencyInjectionDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+c:\users\tim\Source\Repos\DependencyInjectionDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+c:\users\tim\Source\Repos\DependencyInjectionDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+c:\users\tim\Source\Repos\DependencyInjectionDemo\ConsoleUI\bin\Debug\DemoLibrary.dll
+c:\users\tim\Source\Repos\DependencyInjectionDemo\ConsoleUI\bin\Debug\DemoLibrary.pdb
+c:\users\tim\Source\Repos\DependencyInjectionDemo\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+c:\users\tim\Source\Repos\DependencyInjectionDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+c:\users\tim\Source\Repos\DependencyInjectionDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+c:\users\tim\Source\Repos\DependencyInjectionDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+c:\users\tim\Source\Repos\DependencyInjectionDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
