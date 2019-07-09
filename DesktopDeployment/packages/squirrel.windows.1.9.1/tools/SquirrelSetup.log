@@ -1,0 +1,8 @@
+﻿2019-06-13 16:40:11> Program: Starting Squirrel Updater: --releasify SQLiteDemo.1.0.0.nupkg
+2019-06-13 16:40:11> Program: Bootstrapper EXE found at:C:\Demos\DesktopDeployment\packages\squirrel.windows.1.9.1\tools\Setup.exe
+2019-06-13 16:40:11> Program: Creating release package: C:\Demos\DesktopDeployment\Releases\SQLiteDemo.1.0.0.nupkg
+2019-06-13 16:40:11> ReleasePackage: Creating release package: C:\Demos\DesktopDeployment\Releases\SQLiteDemo.1.0.0.nupkg => C:\Demos\DesktopDeployment\Releases\SQLiteDemo-1.0.0-full.nupkg
+2019-06-13 16:40:12> ReleasePackage: Extracting dependent packages: []
+2019-06-13 16:40:12> ReleasePackage: Removing unnecessary data
+2019-06-13 16:40:12> ReleasePackage: No release notes found in C:\Users\bthornhill\AppData\Local\SquirrelTemp\tempa\SQLiteDemo.nuspec
+2019-06-13 16:40:12> Program: Building embedded zip file for Setup.exe

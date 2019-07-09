@@ -4,3 +4,9 @@ C:\Users\Tim\Source\Repos\FluentValidationDemo\ModelLibrary\obj\Debug\ModelLibra
 C:\Users\Tim\Source\Repos\FluentValidationDemo\ModelLibrary\obj\Debug\ModelLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Tim\Source\Repos\FluentValidationDemo\ModelLibrary\obj\Debug\ModelLibrary.dll
 C:\Users\Tim\Source\Repos\FluentValidationDemo\ModelLibrary\obj\Debug\ModelLibrary.pdb
+C:\Users\bthornhill\source\repos\Demos\FluentDataValidation\ModelLibrary\bin\Debug\ModelLibrary.dll
+C:\Users\bthornhill\source\repos\Demos\FluentDataValidation\ModelLibrary\bin\Debug\ModelLibrary.pdb
+C:\Users\bthornhill\source\repos\Demos\FluentDataValidation\ModelLibrary\obj\Debug\ModelLibrary.csprojAssemblyReference.cache
+C:\Users\bthornhill\source\repos\Demos\FluentDataValidation\ModelLibrary\obj\Debug\ModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bthornhill\source\repos\Demos\FluentDataValidation\ModelLibrary\obj\Debug\ModelLibrary.dll
+C:\Users\bthornhill\source\repos\Demos\FluentDataValidation\ModelLibrary\obj\Debug\ModelLibrary.pdb

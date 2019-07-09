@@ -1,0 +1,12 @@
+C:\Users\Tim\Source\Repos\SQLiteDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\Tim\Source\Repos\SQLiteDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\Tim\Source\Repos\SQLiteDemo\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\Tim\Source\Repos\SQLiteDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Source\Repos\SQLiteDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\Tim\Source\Repos\SQLiteDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb
+C:\Users\Tim\Source\Repos\SQLiteDemo\DemoLibrary\bin\Debug\Dapper.dll
+C:\Users\Tim\Source\Repos\SQLiteDemo\DemoLibrary\bin\Debug\System.Data.SQLite.dll
+C:\Users\Tim\Source\Repos\SQLiteDemo\DemoLibrary\bin\Debug\Dapper.xml
+C:\Users\Tim\Source\Repos\SQLiteDemo\DemoLibrary\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tim\Source\Repos\SQLiteDemo\DemoLibrary\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Tim\Source\Repos\SQLiteDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CopyComplete
