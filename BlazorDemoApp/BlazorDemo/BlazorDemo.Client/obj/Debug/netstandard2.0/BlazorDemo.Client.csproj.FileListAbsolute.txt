@@ -1,0 +1,13 @@
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Client\obj\Debug\netstandard2.0\BlazorDemo.Client.csprojAssemblyReference.cache
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Client\obj\Debug\netstandard2.0\staticwebassets\BlazorDemo.Client.StaticWebAssets.Manifest.cache
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Client\obj\Debug\netstandard2.0\staticwebassets\BlazorDemo.Client.StaticWebAssets.xml
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Client\obj\Debug\netstandard2.0\BlazorDemo.Client.RazorComponent.input.cache
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Client\obj\Debug\netstandard2.0\RazorDeclaration\App.razor.g.cs
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\_Imports.razor.g.cs
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Client\obj\Debug\netstandard2.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Client\obj\Debug\netstandard2.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Client\obj\Debug\netstandard2.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Client\obj\Debug\netstandard2.0\RazorDeclaration\_Imports.razor.g.cs

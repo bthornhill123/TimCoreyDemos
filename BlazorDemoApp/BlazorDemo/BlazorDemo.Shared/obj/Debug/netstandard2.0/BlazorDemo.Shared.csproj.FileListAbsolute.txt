@@ -1,0 +1,8 @@
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Shared\bin\Debug\netstandard2.0\BlazorDemo.Shared.deps.json
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Shared\bin\Debug\netstandard2.0\BlazorDemo.Shared.dll
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Shared\bin\Debug\netstandard2.0\BlazorDemo.Shared.pdb
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Shared\obj\Debug\netstandard2.0\BlazorDemo.Shared.AssemblyInfoInputs.cache
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Shared\obj\Debug\netstandard2.0\BlazorDemo.Shared.AssemblyInfo.cs
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Shared\obj\Debug\netstandard2.0\BlazorDemo.Shared.dll
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Shared\obj\Debug\netstandard2.0\BlazorDemo.Shared.pdb
+C:\Users\bthornhill\source\repos\demos\BlazorDemoApp\BlazorDemo\BlazorDemo.Shared\obj\Debug\netstandard2.0\BlazorDemo.Shared.csprojAssemblyReference.cache

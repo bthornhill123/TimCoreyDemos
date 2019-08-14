@@ -1,0 +1,11 @@
+C:\Users\bthornhill\source\repos\demos\MongoDBDemoApp\MongoDBDemo\bin\Debug\netcoreapp2.2\MongoDBDemo.deps.json
+C:\Users\bthornhill\source\repos\demos\MongoDBDemoApp\MongoDBDemo\bin\Debug\netcoreapp2.2\MongoDBDemo.runtimeconfig.json
+C:\Users\bthornhill\source\repos\demos\MongoDBDemoApp\MongoDBDemo\bin\Debug\netcoreapp2.2\MongoDBDemo.runtimeconfig.dev.json
+C:\Users\bthornhill\source\repos\demos\MongoDBDemoApp\MongoDBDemo\bin\Debug\netcoreapp2.2\MongoDBDemo.dll
+C:\Users\bthornhill\source\repos\demos\MongoDBDemoApp\MongoDBDemo\obj\Debug\netcoreapp2.2\MongoDBDemo.csprojAssemblyReference.cache
+C:\Users\bthornhill\source\repos\demos\MongoDBDemoApp\MongoDBDemo\obj\Debug\netcoreapp2.2\MongoDBDemo.csproj.CoreCompileInputs.cache
+C:\Users\bthornhill\source\repos\demos\MongoDBDemoApp\MongoDBDemo\obj\Debug\netcoreapp2.2\MongoDBDemo.AssemblyInfoInputs.cache
+C:\Users\bthornhill\source\repos\demos\MongoDBDemoApp\MongoDBDemo\obj\Debug\netcoreapp2.2\MongoDBDemo.AssemblyInfo.cs
+C:\Users\bthornhill\source\repos\demos\MongoDBDemoApp\MongoDBDemo\bin\Debug\netcoreapp2.2\MongoDBDemo.pdb
+C:\Users\bthornhill\source\repos\demos\MongoDBDemoApp\MongoDBDemo\obj\Debug\netcoreapp2.2\MongoDBDemo.dll
+C:\Users\bthornhill\source\repos\demos\MongoDBDemoApp\MongoDBDemo\obj\Debug\netcoreapp2.2\MongoDBDemo.pdb
